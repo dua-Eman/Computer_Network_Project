@@ -6,7 +6,7 @@ My Course project for complex engineering problem (CEP). It contains a Java Clie
 1. Java jdk 17+
 2. NetBeans recommended
 
--- download the source file.
+**-- Download the source file, extract the folder.**
 
 ## Running via NetBeans
 1. Open NetBeans.

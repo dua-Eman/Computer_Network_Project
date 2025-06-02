@@ -26,7 +26,7 @@ My Course project for complex engineering problem (CEP). It contains a Java Clie
     **THIS WILL LAUNCH ClientGUI**
 
 ## Note:
-1. Make sure ServerGUI is strated before client file.
+1. Make sure ServerGUI is started before client file.
    
 ## Features 
 1. By running the ClientGUI file multiple times you can initiate multiple clients.

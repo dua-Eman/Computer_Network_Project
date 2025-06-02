@@ -25,7 +25,7 @@ My Course project for complex engineering problem (CEP). It contains a Java Clie
     
     **THIS WILL LAUNCH ClientGUI**
 
-##Note:
+## Note:
 1. Make sure ServerGUI is strated before client file.
    
 ## Features 

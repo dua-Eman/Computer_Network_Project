@@ -7,6 +7,7 @@ My Course project for complex engineering problem (CEP). It contains a Java Clie
 2. NetBeans recommended
 
 **-- Download the source file, extract the folder.**
+**src > main > java > ServerSIDE > ClientSIDE
 
 ## Running via NetBeans
 1. Open NetBeans.
@@ -22,9 +23,11 @@ My Course project for complex engineering problem (CEP). It contains a Java Clie
 9. Enter  your Username and press **OK**.
     
     **THIS WILL LAUNCH ClientGUI**
+
+##Note:
+1. Make sure ServerGUI is strated before client file.
    
 ## Features 
 1. By running the ClientGUI file multiple times you can initiate multiple clients.
-2. Make sure ServerGUI is strated before client file.
-3. Server can unicast the message by using @USERNAME: ..(MESSAGE)..
-4. Server command **// list** to show the connected client list.
+2. Server can unicast the message by using @USERNAME: ..(MESSAGE)..
+3. Server command **// list** to show the connected client list.

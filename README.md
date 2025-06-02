@@ -7,7 +7,7 @@ My Course project for complex engineering problem (CEP). It contains a Java Clie
 2. NetBeans recommended
 
 **-- Download the source file, extract the folder.**
-**src > main > java > ServerSIDE > ClientSIDE
+**src > main > java > ServerSIDE > ClientSIDE**
 
 ## Running via NetBeans
 1. Open NetBeans.

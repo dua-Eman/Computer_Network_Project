@@ -32,3 +32,4 @@ My Course project for complex engineering problem (CEP). It contains a Java Clie
 1. By running the ClientGUI file multiple times you can initiate multiple clients.
 2. Server can unicast the message by using @USERNAME: ..(MESSAGE)..
 3. Server command **// list** to show the connected client list.
+4. Automated server.
